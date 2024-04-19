@@ -1,2 +1,5 @@
 name: publish-action-test-8275279835
 description: This is my first published action. Testing it out.
+branding:
+  icon: 'anchor'
+  color: 'purple'
